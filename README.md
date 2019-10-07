@@ -19,3 +19,6 @@ Performing composition and layout in plain HTML (or Markdown) is the way nature 
 Fork this project for any talk you need to give, then edit the file index.html to contain your slides (instead of mine)
 
 When you make improvements to the higgins.js or higgins.css file, send them back as a pull request.
+
+--
+from secretgeek.net
